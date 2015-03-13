@@ -1,0 +1,84 @@
+Enter 'exit' for program termination 
+Valid input is : test1, test2, test3 , all
+all
+Needle found!
+	Haystack : haystack1.txt
+	Needle   : __fg
+	index    : 0
+	line     : 0
+Needle found!
+	Haystack : haystack1.txt
+	Needle   : __fg
+	index    : 5
+	line     : 0
+Needle found!
+	Haystack : haystack2.txt
+	Needle   : __t_
+	index    : 3
+	line     : 0
+Needle found!
+	Haystack : haystack2.txt
+	Needle   : __t_
+	index    : 9
+	line     : 0
+Needle found!
+	Haystack : haystack2.txt
+	Needle   : __t_
+	index    : 13
+	line     : 0
+Needle found!
+	Haystack : haystack2.txt
+	Needle   : __t_
+	index    : 14
+	line     : 0
+Needle found!
+	Haystack : haystack2.txt
+	Needle   : __t_
+	index    : 21
+	line     : 0
+Needle found!
+	Haystack : haystack2.txt
+	Needle   : __t_
+	index    : 22
+	line     : 0
+Needle found!
+	Haystack : haystack2.txt
+	Needle   : tt
+	index    : 15
+	line     : 0
+Needle found!
+	Haystack : haystack2.txt
+	Needle   : tt
+	index    : 23
+	line     : 0
+Needle found!
+	Haystack : haystack3.txt
+	Needle   : u_t_m_
+	index    : 0
+	line     : 0
+Needle found!
+	Haystack : haystack3.txt
+	Needle   : u_t_m_
+	index    : 14
+	line     : 0
+Needle found!
+	Haystack : haystack3.txt
+	Needle   : u_t_m_
+	index    : 28
+	line     : 0
+Needle found!
+	Haystack : haystack3.txt
+	Needle   : u_t_m_
+	index    : 35
+	line     : 0
+Needle found!
+	Haystack : haystack3.txt
+	Needle   : u_t_m_
+	index    : 57
+	line     : 0
+Enter 'exit' for program termination 
+Valid input is : test1, test2, test3 , all
+exit
+Stopped
+
+
